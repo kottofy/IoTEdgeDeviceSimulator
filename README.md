@@ -8,3 +8,4 @@ and using the Azure IoT Edge
 1. Either create a new IoT Edge project (with Visual Studio Code) and copy/paste/replace the Program.cs and DeviceMessage.cs files 
 ..or clone/download this repo 
 2. Run on your IoT Edge setup
+3. Edit the class and function that generates random data to your custom needs
